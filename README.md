@@ -4,10 +4,11 @@ Códigos da disciplina de Cálculo Numérico pelo Institudo de Matemática e Est
 2- Método do Ponto Fixo
 3- Método de Newton 
 4- Eliminação de Gauss
-5- Eliminação de Gauss com Pivoteamneto Parcial
+5- Eliminação de Gauss com Pivoteamento Parcial
 6- Fatoração LU
 7- Fatoração de Cholesky 
 8- Método de Jacobi
 9- Método de Gauss-Jacobi
 9- Método de Gauss-Seidel
 10- Método de Newton-Raphson
+11- Método da secante

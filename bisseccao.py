@@ -2,6 +2,7 @@ import math
 def f(x):
     return (x**3-3*x**2-6*x+8)
 
+# testando gitkraken
 #Algoritmo retirado do livro Algoritmos numéricos Frederico Ferreira
 def bisseccao(a, b, Toler, IterMax):
     Fa = f(a)
